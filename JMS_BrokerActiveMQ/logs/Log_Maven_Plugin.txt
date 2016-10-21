@@ -1,0 +1,8 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JMSBrokerActiveMQ 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-activemq-plugin:5.2.0:run (default-cli) @ JMSBrokerActiveMQ ---
+[INFO] Loading broker configUri: xbean:file:./conf/activemq.xml
